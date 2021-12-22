@@ -1,44 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Landing Page 
+<img width="1680" alt="Screenshot 2021-12-22 at 11 38 43 AM" src="https://user-images.githubusercontent.com/88853198/147044678-cff0c5f7-1d7e-4d7f-adb3-4acce2e63a39.png">
 
-## Available Scripts
+## Side Menu
+<img width="486" alt="Screenshot 2021-12-22 at 11 39 09 AM" src="https://user-images.githubusercontent.com/88853198/147044712-913c5ced-0dce-4743-9778-bb2bcc49773d.png">
 
-In the project directory, you can run:
+## Header
+<img width="1680" alt="Screenshot 2021-12-22 at 11 39 51 AM" src="https://user-images.githubusercontent.com/88853198/147044752-03642bdc-970d-4c8e-9eb8-1807de2e7d2a.png">
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Site Tour ScreenShot 
+  ## 1 
+  <img width="1680" alt="Screenshot 2021-12-22 at 11 38 43 AM" src="https://user-images.githubusercontent.com/88853198/147044678-cff0c5f7-1d7e-4d7f-adb3-4acce2e63a39.png">
+  
+  ## 2
+  <img width="1680" alt="Screenshot 2021-12-22 at 11 40 27 AM" src="https://user-images.githubusercontent.com/88853198/147044875-79aba3e4-49a4-47b3-addf-e5acb712b921.png">
+  
+ ## 3 
+ <img width="1680" alt="Screenshot 2021-12-22 at 11 40 36 AM" src="https://user-images.githubusercontent.com/88853198/147044912-d72eee51-74f9-4dd4-8905-da084c5eb3a5.png">
+ 
+  ## 4
+ <img width="1680" alt="Screenshot 2021-12-22 at 11 40 42 AM" src="https://user-images.githubusercontent.com/88853198/147044957-5dde1789-2534-419f-8b20-088b1f4048b0.png">
+ 
+  ## 5
+ <img width="1680" alt="Screenshot 2021-12-22 at 11 40 49 AM" src="https://user-images.githubusercontent.com/88853198/147044995-31cc8359-334e-4006-8d27-b440a102e1be.png">
+ 
+ ## 6
+ <img width="1680" alt="Screenshot 2021-12-22 at 11 40 55 AM" src="https://user-images.githubusercontent.com/88853198/147045395-d7db0c46-17d6-424c-913d-ee92100f3a7b.png">
+ 
+  ## 7
+ <img width="1680" alt="Screenshot 2021-12-22 at 11 41 01 AM" src="https://user-images.githubusercontent.com/88853198/147045079-97c90207-ceb7-49be-a5f3-9beb2db863e1.png">
